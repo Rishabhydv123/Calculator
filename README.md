@@ -1,4 +1,4 @@
-# 🧮 Calculator Project
+# Calculator Project
 
 This is my **first development project** — a fully functional calculator built with a **unique and clean design**.  
 All calculator operations are working correctly, focusing on simplicity, usability, and clear logic.
@@ -26,5 +26,7 @@ All calculator operations are working correctly, focusing on simplicity, usabili
 ---
 
 ## 📸 Project Preview
+
+
 
 
