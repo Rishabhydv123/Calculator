@@ -27,7 +27,7 @@ All calculator operations are working correctly, focusing on simplicity, usabili
 
 ## 📸 Project Preview
 
-![Calculator Preview]()
+![Calculator Preview](./Calculator/util/Dark%20Mode.png)
 
 
 
