@@ -40,7 +40,11 @@ All calculator operations are working correctly, focusing on simplicity, usabili
 ## Result
 ![Result](/image/Result.png)
 
-![netlify](https://coruscating-salamander-007740.netlify.app)
+<!-- ![netlify](https://coruscating-salamander-007740.netlify.app) -->
+<p align="center">
+  <img src="https://coruscating-salamander-007740.netlify.app" width="300">
+</p>
+
 
 
 
