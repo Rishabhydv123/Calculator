@@ -43,6 +43,6 @@ All calculator operations are working correctly, focusing on simplicity, usabili
 🔗 **Live Demo:** 
 [Click here to view the project](https://coruscating-salamander-007740.netlify.app)
 
-
+⭐ If you like this project, feel free to star the repository!
 
 
